@@ -1,0 +1,15 @@
+C:\Users\kofe3\source\repos\HomeWork\HomeWork\bin\Debug\net10.0\HomeWork.exe
+C:\Users\kofe3\source\repos\HomeWork\HomeWork\bin\Debug\net10.0\HomeWork.deps.json
+C:\Users\kofe3\source\repos\HomeWork\HomeWork\bin\Debug\net10.0\HomeWork.runtimeconfig.json
+C:\Users\kofe3\source\repos\HomeWork\HomeWork\bin\Debug\net10.0\HomeWork.dll
+C:\Users\kofe3\source\repos\HomeWork\HomeWork\bin\Debug\net10.0\HomeWork.pdb
+C:\Users\kofe3\source\repos\HomeWork\HomeWork\obj\Debug\net10.0\HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kofe3\source\repos\HomeWork\HomeWork\obj\Debug\net10.0\HomeWork.AssemblyInfoInputs.cache
+C:\Users\kofe3\source\repos\HomeWork\HomeWork\obj\Debug\net10.0\HomeWork.AssemblyInfo.cs
+C:\Users\kofe3\source\repos\HomeWork\HomeWork\obj\Debug\net10.0\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\kofe3\source\repos\HomeWork\HomeWork\obj\Debug\net10.0\HomeWork.dll
+C:\Users\kofe3\source\repos\HomeWork\HomeWork\obj\Debug\net10.0\refint\HomeWork.dll
+C:\Users\kofe3\source\repos\HomeWork\HomeWork\obj\Debug\net10.0\HomeWork.pdb
+C:\Users\kofe3\source\repos\HomeWork\HomeWork\obj\Debug\net10.0\HomeWork.genruntimeconfig.cache
+C:\Users\kofe3\source\repos\HomeWork\HomeWork\obj\Debug\net10.0\ref\HomeWork.dll
+C:\Users\kofe3\source\repos\HomeWork\HomeWork\obj\Debug\net10.0\HomeWork.csproj.Up2Date
