@@ -11,7 +11,6 @@
         Console.WriteLine(MinimumMaximumElementAndSwap(array));
         ShowArray(array);
         Console.WriteLine("Визначення першого позитивного/негативного елемента в масивi:");
-        Console.WriteLine("Вiдсутнi позитивнi або негативнi елементи");
         ShowArray(array);
         Console.WriteLine(PositiveNegativeElement(array, true));
         Console.WriteLine(PositiveNegativeElement(array, false));
